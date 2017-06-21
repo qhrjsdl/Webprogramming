@@ -1,0 +1,33 @@
+body{
+  background-image: url(tableBackground.png);
+}
+.card{
+
+  position:relative;
+  display: block;
+   margin: auto;
+   width: 35%;
+}
+.img1{
+  position:absolute; top: 0px; left: 0px; right: 10px;z-index: 1;
+}
+.img2{
+  position:absolute; top: 40px; left: 50px; right: 10px;z-index: 3;
+}
+
+img{
+  display: block;
+   margin: auto;
+   width: 35%;
+}
+.title{
+  text-align: center;
+  color: white;
+}
+.buttons{
+  position: absolute;
+  right: 45%;
+  bottom: 25%;
+  margin: auto;
+
+}

@@ -29,6 +29,9 @@ body{
 .img5{
   position:absolute; top: 120px; left: 105%; z-index: 3;
 }
+.img6{
+  position:absolute; top: 180px; left: 98%; z-index: 3;
+}
 .result{
   text-align: center;
   color: red;
@@ -132,7 +135,7 @@ right: 0px;
 .popupMenu h2 {
   margin-top: 0;
   color: #333;
-  font-family: Tahoma, Arial, sans-serif;
+  font-family: "Times New Roman", Georgia, Serif;
 }
 .popupMenu .close {
   position: absolute;

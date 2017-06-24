@@ -1,5 +1,6 @@
 body{
   background-image: url(tableBackground.png);
+  background-size:cover;
 }
 .user{
   position:relative;
